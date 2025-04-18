@@ -1,11 +1,9 @@
 ### Hey, My name is Mukul 👋🏽  
 
-I'm a 22-year-old developer based in India, and I'm passionate about crafting digital experiences. 
+I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](#) to learn more about me.
 - Explore my [blog](#) where I share insights and learnings.
-- Explore my [VS Code Configuration](#) for development optimization.
-- In my [Newsletter](#), I share my learnings and tips to become a better fullstack developer.
  
 ## 📦 Toolbox
 
@@ -17,12 +15,6 @@ I'm a 22-year-old developer based in India, and I'm passionate about crafting di
 
 **Testing:**  `Postman` 
 
- 
-## ✨ Fun Facts 
-
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Linux after switching from windows.
 
 ## 📫 Contact
 
